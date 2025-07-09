@@ -1,15 +1,16 @@
-## Hi there 👋
+# We are Servera.dev! 
 
-<!--
+Hey there! 👋
 
-**Here are some ideas to get you started:**
+We’re **Servera**, an AI-driven company based in Ottawa, Canada 🇨🇦, focused on building powerful tools that streamline software development. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our flagship platform, [**Servera.dev**](https://www.servera.dev/), allows developers and people who want a no-code solution to instantly generate and deploy microservices — perfect for hackathons, MVPs, and rapid prototyping.
 
+We're just getting started, and there's plenty more to come.
+🚀 Stay tuned for updates, and feel free to explore our [GitHub repositories](https://github.com/servera-dev/) to see what we’re working on!
 
-We are Servera.dev
+We are eager to learn and build! 
+
+Got questions or want to connect?
+Reach out to us on [**LinkedIn**](https://www.linkedin.com/company/servera-dev/).
+
